@@ -9,7 +9,7 @@ Next we Grouped the Countries in different range on basis of number of Billionai
 Next we tried to figure out the Max, Min and Mean of their NET_WORTH grouped by Country-Wise.
 <img width="1128" height="3933" alt="download" src="https://github.com/user-attachments/assets/369c995f-3580-44fe-9afc-8e90fb020fde" />
 
-Next we tried to find out the Country-Wise Monopoly of Billionaires (found out the difference between Max and Mean) and Ranked the countries in ascending order.
+Next we tried to find out the Country-Wise Monopoly of Billionaires (found out the difference between Max and Mean) and Ranked the countries in ascending order and also counted the total number of Countries in each Rank.
 <img width="1238" height="1007" alt="download-1" src="https://github.com/user-attachments/assets/3c32f08c-da1e-4cf6-884f-451e1d026a8c" />
 
 ---End Of File---
