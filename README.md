@@ -6,5 +6,8 @@ We at first found out Country-Wise total no of Billionaires Count and plotted th
 Next we Grouped the Countries in different range on basis of number of Billionaires and plotted that data.
 <img width="630" height="470" alt="download" src="https://github.com/user-attachments/assets/cb77e03d-387c-4ae9-8934-e3aa7d40ccc5" />
 
+Next we tried to figure out the Max, Min and Mean of their NET_WORTH grouped by Country-Wise.
+<img width="1128" height="3933" alt="download" src="https://github.com/user-attachments/assets/369c995f-3580-44fe-9afc-8e90fb020fde" />
+
 
 ---End Of File---
